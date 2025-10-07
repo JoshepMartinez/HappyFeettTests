@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/view/Main.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/controller/FacturaDuenosController.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/view/MainView.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/service/ReporteGerencial.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/Alert/AlertaService.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/controller/FacturaController.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/Model/ItemFactura.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/Model/FacturaDuenos.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/controller/MenuController.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/HappyFeet.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/Model/Factura.java</file>
+            <file>file:/home/camper/Escritorio/HappyFeet-master/src/happyfeet/view/ConsoleMenuView.java</file>
+        </group>
+    </open-files>
+</project-private>
